@@ -1,0 +1,1 @@
+export const toString = (n: number) => n.toString();
