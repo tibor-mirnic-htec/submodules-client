@@ -1,0 +1,3 @@
+[submodule "src/common/core-ui"]
+	path = src/common/core-ui
+	url = https://github.com/tibor-mirnic-htec/submodules-core-ui.git
